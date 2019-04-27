@@ -8,3 +8,11 @@ Fundada em 2018 por Estatísticos da Universidade Federal de Pernambuco.
 
 
 ### Serviços
+
+Aqui será exibido  serviços ofertados pela BigEduc
+
+
+### Contatos
+ 
+* Whatsapp
+* email 
