@@ -7,9 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2019</copyright>
+    <lastBuildDate>Wed, 01 May 2019 21:49:57 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Startup</title>
+      <link>/post/hoge/</link>
+      <pubDate>Wed, 01 May 2019 21:49:57 -0700</pubDate>
+      
+      <guid>/post/hoge/</guid>
+      <description> Fundada em 2018 por Estatísticos da Universidade Federal de Pernambuco.
+Serviços </description>
+    </item>
     
   </channel>
 </rss>
