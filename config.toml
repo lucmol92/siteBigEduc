@@ -1,6 +1,6 @@
 BaseUrl= "/"
 LanguageCode= "en-US"
-Title= "Hugo Theme Air"
+Title= "BigEduc"
 paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2016"
@@ -8,12 +8,12 @@ canonifyurls = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [author]
-  name = "syui"
+  name = "BigEduc"
 
 [params]
-  description = "this is my description"
+  description = "Inteligência de Mercado"
   cover = "images/user.jpg"
-  author = "syui"
+  author = "BigEduc"
   authorlocation = ""
   authorwebsite = "https://syui.github.io/hugo-theme-air"
   bio= "my bio"
