@@ -18,7 +18,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   authorlocation = "Recife/PE"
   authorwebsite = ""
   bio= "my bio"
-  logo = "images/symbol.jpg"
+  logo = "images/BigEduc.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
@@ -26,3 +26,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   twitterName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
+  
+ 
+        
