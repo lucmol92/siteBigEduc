@@ -1,6 +1,6 @@
 ---
-date: "2019-05-01T21:49:57-07:00"
-title: Negócios inteligentes visam crescimento 
+date: "2019-02-05"
+title: A tomada de decisão inteligente em suas mãos 
 ---
 
 Seja qual for a área de atuação, **otimizar gastos** é um dos principais desafios de um bom gestor. 
@@ -36,35 +36,29 @@ A tomada de decisão baseada em **dados** é essencial para atingir o sucesso em
 
 
 
-
+------------------------------
 ### Soluções para Empresas 
+ 
+---------------------------
+  
+### Contate-nos
 
 
+Envie-nos uma mensagem por Whatsapp **cliclando aqui**.
 
+Ou 
 
-### Contatos
-
-
-<div id="after_submit"></div>
-<form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
-  <div class="row">
-    <label class="required" for="name">Nome:</label><br />
-    <input id="name" class="input" name="name" type="text" value="" size="30" /><br />
-    <span id="name_validation" class="error_message"></span>
-  </div>
-  <div class="row">
-    <label class="required" for="email"> Email:</label><br />
-    <input id="email" class="input" name="email" type="text" value="" size="30" /><br />
-    <span id="email_validation" class="error_message"></span>
-  </div>
-  <div class="row">
-    <label class="required" for="message">Mensagem:</label><br />
-    <textarea id="message" class="input" name="message" rows="5" cols="30"></textarea><br />
-    <span id="message_validation" class="error_message"></span>
-  </div>
-    <form method="post" action="mailto:contato.bigeduc@gmail.com.br" >
-<input type="submit" value="Enviar" /> 
-</form>
-   
-    
-    
+   <body>
+    <form action="mailto:contato.bigeduc@gmail.com.br" method="get" enctype="text/plain">
+      <p>Nome: <input type="text" name="name"/></p>
+      <p>Email: <input type="text" name="email"/></p>
+      <p>Mensagem:
+        <br />
+        <textarea name="comments" rows = "12" cols = "35"></textarea>
+        <br>
+      <p><input type="submit" name="submit" value="Enviar" />
+      </p>
+    </form>
+  </body>
+ 
+  
