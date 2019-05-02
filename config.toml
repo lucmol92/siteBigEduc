@@ -1,6 +1,6 @@
 BaseUrl= "/"
 LanguageCode= "en-US"
-Title= "BigEduc"
+Title= " BigEduc"
 paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2019"
@@ -12,7 +12,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [params]
-  description = "Inteligência de Mercado"
+  description = "O Poder dos Dados na Sua Empresa"
   cover = "images/user.jpg"
   author = "BigEduc"
   authorlocation = "Recife/PE"

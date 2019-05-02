@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on BigEduc</title>
+    <title>Posts on  BigEduc</title>
     <link>/post/</link>
-    <description>Recent content in Posts on BigEduc</description>
+    <description>Recent content in Posts on  BigEduc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2019</copyright>
@@ -13,14 +13,12 @@
     
     
     <item>
-      <title>A Startup</title>
+      <title>Negócios inteligentes visam crescimento</title>
       <link>/post/hoge/</link>
       <pubDate>Wed, 01 May 2019 21:49:57 -0700</pubDate>
       
       <guid>/post/hoge/</guid>
-      <description> Fundada em 2018 por Estatísticos da Universidade Federal de Pernambuco.
-Serviços Aqui será exibido serviços ofertados pela BigEduc
-Contatos  Whatsapp email  </description>
+      <description>Seja qual for a área de atuação, otimizar gastos é um dos principais desafios de um bom gestor. A tomada de decisão baseada em dados é essencial para atingir o sucesso em determinada estratégia. Pensando nisso que fundamos a BigEduc, Startup que utiliza &amp;lsquo;o conhecimento estatístico (?)&amp;rsquo; para captação de dados com o objetivo de fornecer ao gestor os indicadores necessários para fazer sua Empresa crescer de forma sólida e lidar com o dinamismo do mercado.</description>
     </item>
     
   </channel>
