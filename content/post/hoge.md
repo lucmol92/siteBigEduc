@@ -45,7 +45,7 @@ A tomada de decisão baseada em **dados** é essencial para atingir o sucesso em
   <ul style="list-style-type:disc;">
   <li>Identificamos os bairros com maior Lucro
 Potencial</li>
-  <li> Perfil da demanda por região </li>
+  <li> Perfil da demanda de alunos por região </li>
   <li>Mapeamento das melhores séries a serem iniciadas na região</li>
 </ul>
 
@@ -65,29 +65,34 @@ do bairro</li>
 
 
 ------------------------------
-### Para Empresas e Novos Negócios
+### Empresas e Novos Negócios
  
  <table bgcolor="#00FF00">
-<th bgcolor="#00FF00"><center>Expandindo: Mensalidade escolar: Qual preço cobrar?</center></th>
+<th bgcolor="#00FF00"><center> Implantação/Expansão das Atividades  </center></th>
 </table>
 <p align="center">
-<img src="images/money.png" width="200" height="200" class="center"></p>    
+<img src="images/map2.jpeg" width="200" height="200" class="center"></p>    
   <ul style="list-style-type:disc;">
-  <li>Análise dos preços praticados pela escola em relação
- </li>
-  <li> Precificação praticada pelos concorrentes da escola na região</li>
-  <li> Análise da precificação baseada no perfil  socioeconômico
-do bairro</li>
+  <li>Tenha um mapa dos concorrentes e perfil socioeconômico da sua região de interesse
+</li>
+  <li> Obtenha a melhor região para instalar uma nova unidade da empresa
+ </li> 
+ 
 </ul>
 
 ---------------------------
   
-### Envie uma mensagem
+### Envie-nos uma mensagem
 
 
-Via Whatsapp **clicando aqui**.
+&nbsp;
+ <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5581999387537"><img src="images/zap.png" width="60" height="50" style="float:left;"/>
+</a> 
+ </html>
 
-Ou 
+
+<html>
+Ou deixe sua mensagem:
 
    <body>
     <form name="contact" method="POST" data-netlify="true">
@@ -101,5 +106,8 @@ Ou
       </p>
     </form>
   </body>
+ 
+ 
+ 
  
   
