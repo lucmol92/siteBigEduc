@@ -55,7 +55,7 @@ Potencial</li>
 <p align="center">
 <img src="images/money.png" width="200" height="200" class="center"></p>    
   <ul style="list-style-type:disc;">
-  <li>Análise dos preços praticados pela escola em relação
+  <li>Análise dos preços praticados pela escola
  </li>
   <li> Precificação praticada pelos concorrentes da escola na região</li>
   <li> Análise da precificação baseada no perfil  socioeconômico
@@ -67,17 +67,30 @@ do bairro</li>
 ------------------------------
 ### Para Empresas e Novos Negócios
  
+ <table bgcolor="#00FF00">
+<th bgcolor="#00FF00"><center>Expandindo: Mensalidade escolar: Qual preço cobrar?</center></th>
+</table>
+<p align="center">
+<img src="images/money.png" width="200" height="200" class="center"></p>    
+  <ul style="list-style-type:disc;">
+  <li>Análise dos preços praticados pela escola em relação
+ </li>
+  <li> Precificação praticada pelos concorrentes da escola na região</li>
+  <li> Análise da precificação baseada no perfil  socioeconômico
+do bairro</li>
+</ul>
+
 ---------------------------
   
-### Contate-nos
+### Envie uma mensagem
 
 
-Envie-nos uma mensagem por Whatsapp **clicando aqui**.
+Via Whatsapp **clicando aqui**.
 
 Ou 
 
    <body>
-    <form action="mailto:contato.bigeduc@gmail.com.br" method="get" enctype="text/plain">
+    <form action= "./email.php" method="POST"  enctype="text/plain">
       <p>Nome: <input type="text" name="name"/></p>
       <p>Email: <input type="text" name="email"/></p>
       <p>Mensagem:
