@@ -90,7 +90,7 @@ Via Whatsapp **clicando aqui**.
 Ou 
 
    <body>
-    <form action= "./email.php" method="POST"  enctype="text/plain">
+    <form name="contact" method="POST" data-netlify="true">
       <p>Nome: <input type="text" name="name"/></p>
       <p>Email: <input type="text" name="email"/></p>
       <p>Mensagem:
