@@ -2,12 +2,15 @@
 date: "2019-02-05"
 title: A tomada de decisão inteligente em suas mãos 
 ---
-
-Seja qual for a área de atuação, **otimizar gastos** é um dos principais desafios de um bom gestor. 
-A tomada de decisão baseada em **dados** é essencial para atingir o sucesso em determinada estratégia. 
- Pensando nisso que fundamos a **BigEduc**, *Startup* que utiliza 'o conhecimento estatístico (?)' para captação de dados com o objetivo de fornecer ao gestor os indicadores necessários para fazer sua Empresa crescer de forma sólida e lidar com o dinamismo do mercado.
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+            
+  <td><p align=justify>Seja qual for a área de atuação, o crescimento real da empresa é um dos principais desafios de um bom gestor. A tomada de decisão baseada em **dados** é essencial para atingir o sucesso em determinada estratégia. Pensando nisso que fundamos a **BigEduc**, *Startup* que utiliza a informação proveniente dos dados aliada à  estatística e a inteligência artificial  para captação de dados com o objetivo de fornecer ao gestor os indicadores necessários para fazer sua Empresa crescer de forma sólida e lidar com o dinamismo do mercado.</p></td>
 
 -----------------------------------
+
 <html>
 <h1><center>  Soluções</center></h1> &nbsp;
 <h3><center>  Mercado Educacional</center></h3>
@@ -30,7 +33,7 @@ A tomada de decisão baseada em **dados** é essencial para atingir o sucesso em
 <th bgcolor="#00FF00"><center>Perfil do Bairro: Demanda Potencial e Concorrentes</center></th>
 </table>
 <p align="center">
-<img src="images/loc.png" width="100" height="100" class="center"></p>    
+<img src="images/icon3.jpeg" width="200" height="200" class="center"></p>    
 <ul style="list-style-type:disc;">
   <li> Identificação dos concorrentes da unidade da escola na região geográfica</li>
   <li>Distribuição destes alunos por série nas escolas concorrentes</li>
@@ -65,7 +68,7 @@ do bairro</li>
 
 
 ------------------------------
-### Empresas e Novos Negócios
+<h3><center>Empresas e Novos Negócios</center></h3>
  
  <table bgcolor="#00FF00">
 <th bgcolor="#00FF00"><center> Implantação/Expansão das Atividades  </center></th>
@@ -81,8 +84,22 @@ do bairro</li>
 </ul>
 
 ---------------------------
+### Quem Somos
   
-### Envie-nos uma mensagem
+  <td><p align=justify> <img src="images/st.png" width="60" height="50" style="float:left;"/> César Barbosa é refugiado, Físico e Doutor em Estatística pela UFPE. Procurado pela CIA desde 2005.</td></p>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  
+<img src="images/luc.png" width="80" height="80" style="float:left;"/> <td><p align=justify>  Lucas Miranda é economista e mestre em estatística com ênfase em *geolocalização*, ambos pela Universidade Federal de Pernambuco - UFPE.  Desde 2015 trabalha com inteligência de mercado utilizando *Big Data* na análise de mercados, identificando oportunidades, vantagens competitivas e pontos fortes e fracos de concorrentes mapeados para os mais diversos setores da economia. </td></p>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <td><p align=justify> <img src="images/st.png" width="60" height="50" style="float:left;"/> Marcus Alcoforado é economista e mestre em economia pela UFPE </td></p>
+  
+  
+----------------------------
+### Contate-nos
 
 
 &nbsp;
@@ -103,7 +120,7 @@ Ou deixe sua mensagem:
         <textarea name="comments" rows = "12" cols = "35"></textarea>
         <br>
       <p><input type="submit" name="submit" value="Enviar" />
-      </p>
+      </p>  
     </form>
   </body>
  
