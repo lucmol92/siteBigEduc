@@ -7,10 +7,13 @@ title: A tomada de decisão inteligente em suas mãos
 &nbsp;
 &nbsp;
             
-  <td><p align=justify>Seja qual for a área de atuação, o crescimento real da empresa é um dos principais desafios de um bom gestor. A tomada de decisão baseada em **dados** é essencial para atingir o sucesso em determinada estratégia. Pensando nisso que fundamos a **BigEduc**, *Startup* que utiliza a informação proveniente dos dados aliada à  estatística e a inteligência artificial  para captação de dados com o objetivo de fornecer ao gestor os indicadores necessários para fazer sua Empresa crescer de forma sólida e lidar com o dinamismo do mercado.</p></td>
-
------------------------------------
-
+  <td><p align=justify>Seja qual for a área de atuação, o crescimento real da empresa é um dos principais desafios de um bom gestor. A tomada de decisão baseada em **dados** é essencial para atingir o sucesso em determinada estratégia. Pensando nisso que fundamos a **BigEduc**, *Startup* que utiliza a informação proveniente dos dados aliada à  estatística e a inteligência artificial  para captação de dados com o objetivo de fornecer ao gestor os indicadores necessários para fazer sua Empresa crescer de forma sólida e lidar com o dinamismo do mercado.</p></td>                                                                                                                                                                          
+        
+        
+        
+        
+------------------------------------
+                                                                                       
 <html>
 <h1><center>  Soluções</center></h1> &nbsp;
 <h3><center>  Mercado Educacional</center></h3>
@@ -61,10 +64,9 @@ Potencial</li>
   <li>Análise dos preços praticados pela escola
  </li>
   <li> Precificação praticada pelos concorrentes da escola na região</li>
-  <li> Análise da precificação baseada no perfil  socioeconômico
+  <li> Análise da precificação baseada no perfil  socioeconômico        
 do bairro</li>
-</ul>
-
+</ul>                                                                                             
 
 
 ------------------------------
@@ -80,22 +82,31 @@ do bairro</li>
 </li>
   <li> Obtenha a melhor região para instalar uma nova unidade da empresa
  </li> 
- 
-</ul>
+ </ul>     
+
 
 ---------------------------
 ### Quem Somos
   
-  <td><p align=justify> <img src="images/st.png" width="60" height="50" style="float:left;"/> César Barbosa é refugiado, Físico e Doutor em Estatística pela UFPE. Procurado pela CIA desde 2005.</td></p>
+   &nbsp;
+  &nbsp;
+  &nbsp;
+###### César Barbosa - Analista de Dados
+  <td><p align=justify> <img src="images/cesgrav.png" width="80" height="80" style="float:left;"/>  Físico e Doutor em Estatística, ambos pela UFPE. Especialista em métodos quantitativos, têm larga em experiência em linguagens de programação voltadas à ciência de dados. Realiza projetos nas áreas de *machine* e *deep learning*. </td></p>
+  
   &nbsp;
   &nbsp;
   &nbsp;
   
-<img src="images/luc.png" width="80" height="80" style="float:left;"/> <td><p align=justify>  Lucas Miranda é economista e mestre em estatística com ênfase em *geolocalização*, ambos pela Universidade Federal de Pernambuco - UFPE.  Desde 2015 trabalha com inteligência de mercado utilizando *Big Data* na análise de mercados, identificando oportunidades, vantagens competitivas e pontos fortes e fracos de concorrentes mapeados para os mais diversos setores da economia. </td></p>
+###### Lucas Miranda- Analista de Dados
+  
+<img src="images/luc.png" width="80" height="80" style="float:left;"/> <td><p align=justify> Mestre em estatística com ênfase em *geolocalização*, pela UFPE.  Desde 2015 trabalha com inteligência de mercado utilizando *Big Data* na análise de mercados, identificando oportunidades, vantagens competitivas e pontos fortes e fracos de concorrentes mapeados para os mais diversos setores da economia. </td></p>
   &nbsp;
   &nbsp;
   &nbsp;
-  <td><p align=justify> <img src="images/st.png" width="60" height="50" style="float:left;"/> Marcus Alcoforado é economista e mestre em economia pela UFPE </td></p>
+   
+###### Marcus Alcoforado - Analista de Negócios
+  <td><p align=justify> <img src="images/marcus.png" width="80" height="80" style="float:left;"/>  Economista e mestre em economia pela Universidade Federal de Pernambuco - UFPE. Possui experiência em estudos de viabilidade econômico-financeira na abertura de empresas, análise setorial, consultoria e finanças empresariais. </td></p>
   
   
 ----------------------------
