@@ -92,13 +92,13 @@ do bairro</li>
   &nbsp;
   &nbsp;
 ###### César Barbosa - Analista de Dados
-  <td><p align=justify> <img src="images/cesgrav.png" width="80" height="80" style="float:left;"/>  Físico e Doutor em Estatística, ambos pela UFPE. Especialista em métodos quantitativos, têm larga em experiência em linguagens de programação voltadas à ciência de dados. Realiza projetos nas áreas de *machine* e *deep learning*. </td></p>
+  <td><p align=justify> <img src="images/cesgrav.png" width="80" height="80" style="float:left;"/>  Físico e Doutor em Estatística, ambos pela UFPE. Especialista em métodos quantitativos, tem larga experiência em linguagens de programação voltadas à ciência de dados. Realiza projetos nas áreas de *machine* e *deep learning*. </td></p>
   
   &nbsp;
   &nbsp;
   &nbsp;
   
-###### Lucas Miranda- Analista de Dados
+###### Lucas Miranda - Analista de Dados
   
 <img src="images/luc.png" width="80" height="80" style="float:left;"/> <td><p align=justify> Mestre em estatística com ênfase em *geolocalização*, pela UFPE.  Desde 2015 trabalha com inteligência de mercado utilizando *Big Data* na análise de mercados, identificando oportunidades, vantagens competitivas e pontos fortes e fracos de concorrentes mapeados para os mais diversos setores da economia. </td></p>
   &nbsp;
