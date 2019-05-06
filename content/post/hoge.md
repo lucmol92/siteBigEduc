@@ -107,7 +107,8 @@ do bairro</li>
   &nbsp;
    
 ###### Marcus Alcoforado - Analista de Negócios
-  <td><p align=justify> <img src="images/marcus.png" width="80" height="80" style="float:left;"/>  Economista e mestre em economia pela Universidade Federal de Pernambuco - UFPE. Possui experiência em estudos de viabilidade econômico-financeira na abertura de empresas, análise setorial, consultoria e finanças empresariais. </td></p>
+  <td><p align=justify> <img src="images/marcus.png" width="80" height="80" style="float:left;"/>  
+  Economista pela Universidade Federal de Pernambuco - UFPE. Possui experiência em estudos de viabilidade econômico-financeira na abertura de empresas, análise setorial, consultoria e finanças empresariais. </td></p>
   
   
 ----------------------------
