@@ -7,7 +7,7 @@ title: A tomada de decisão inteligente em suas mãos
 &nbsp;
 &nbsp;
             
-  <td><p align=justify>Seja qual for a área de atuação, o crescimento real da empresa é um dos principais desafios de um bom gestor. A tomada de decisão baseada em **dados** é essencial para atingir o sucesso em determinada estratégia. Pensando nisso que fundamos a **BigEduc**, *Startup* que utiliza a informação proveniente dos dados aliada à  estatística e a inteligência artificial  para captação de dados com o objetivo de fornecer ao gestor os indicadores necessários para fazer sua Empresa crescer de forma sólida e lidar com o dinamismo do mercado.</p></td>                                                                                                                                                                          
+  <td><p align=justify>Seja qual for a área de atuação, o crescimento da empresa é um dos principais desafios de um bom gestor. A tomada de decisão baseada em **dados** é essencial para atingir o sucesso em determinada estratégia. Pensando nisso que fundamos a **BigEduc**, *Startup* que utiliza a informação proveniente dos dados aliada à  estatística e a inteligência artificial  para captação de dados com o objetivo de fornecer ao gestor os indicadores necessários para fazer sua Empresa crescer de forma sólida e lidar com o dinamismo do mercado.</p></td>                                                                                                                                                                          
         
         
         
@@ -93,7 +93,7 @@ do bairro</li>
   &nbsp;
 ###### César Barbosa - Analista de Dados
   <td><p align=justify> <img src="images/cesgrav.png" width="80" height="80" style="float:left;"/> 
-  Bacharel em física e Doutorando em estatística, ambos pela UFPE. Atua na área de física e matemática, com ênfase em sistemas dinâmicos, mecânica estatística e aplicações, bem como aprendizagem profunda de máquina (*deep learning*), direcionada à ciência de dados e modelos de evolução em áreas de pesquisas correlatas. </td></p>
+  Bacharel em física e Doutorando em estatística, ambos pela UFPE. Atua na área de física e matemática, com ênfase em sistemas dinâmicos, mecânica estatística e aplicações, bem como aprendizagem de máquina e profunda (*deep learning*), direcionada à ciência de dados e modelos de evolução em áreas de pesquisas correlatas. </td></p>
   
   &nbsp;
   &nbsp;
