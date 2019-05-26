@@ -101,7 +101,7 @@ do bairro</li>
   
 ###### Lucas Miranda - Analista de Dados
   
-<img src="images/luc.png" width="80" height="80" style="float:left;"/> <td><p align=justify> Mestre em estatística com ênfase em *geolocalização* pela UFPE.  Desde 2015 trabalha com inteligência de mercado utilizando *Big Data* na análise de mercados, identificando oportunidades, vantagens competitivas e pontos fortes e fracos de concorrentes mapeados para os mais diversos setores da economia. </td></p>
+<img src="images/luc.png" width="80" height="80" style="float:left;"/> <td><p align=justify> Mestrando em estatística com ênfase em *geolocalização* pela UFPE.  Desde 2015 trabalha com inteligência de mercado utilizando *Big Data* na análise de mercados, identificando oportunidades, vantagens competitivas e pontos fortes e fracos de concorrentes mapeados para os mais diversos setores da economia. </td></p>
   &nbsp;
   &nbsp;
   &nbsp;
